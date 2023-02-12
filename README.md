@@ -2,12 +2,12 @@
 
 # Welcome to my page, nice to see you 👋
 ## About myself:
-I'm a Jumior Manual QA Engineer. I have always been interested in the software development process. I like to check
+I'm a Junior Manual QA Engineer. I have always been interested in the software development process. I like to check
 softwareproducts foroperability, as well as improve theirquality.
 This is creative work toimprove theuser experienceoftheproduct. :wink:
 
 ## My CV
-[Link to my CV](https://https://drive.google.com/file/d/1KMKn3UkN_5t5vIX_6gdQlQbYVSwmfFja/view?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/1KMKn3UkN_5t5vIX_6gdQlQbYVSwmfFja/view?usp=sharing)
 
 ## My Portfolio
 * [Postman Collections](https://github.com/Shuric1992/Postman-Collections.git)
