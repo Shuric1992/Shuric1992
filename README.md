@@ -9,7 +9,7 @@ This is creative work toimprove theuser experienceoftheproduct. :wink:
 
 ## My Portfolio
 * [Postman Collections](https://github.com/Shuric1992/Postman-Collections.git)
-* [Postman Collections](https://github.com/Shuric1992/Postman-Collections.git)
+* [Test Cases and Test Runs](https://github.com/Shuric1992/Test-Cases.git)
 
 
 <!--
