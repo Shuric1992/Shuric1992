@@ -14,9 +14,8 @@ This is creative work toimprove theuser experienceoftheproduct. :wink:
 * [Test Cases and Test Runs](https://github.com/Shuric1992/Test-Cases.git)
 
 ### :hammer_and_wrench: Tools :
-
-
-
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=Postman&logoColor=orange)]
 
 <!--
 **Shuric1992/Shuric1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
