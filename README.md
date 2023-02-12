@@ -1,4 +1,6 @@
-# Hi there, nice to see you 👋
+![HEADER](https://github.com/Shuric1992/Shuric1992/blob/main/qa-2-minxd.png)
+
+# Welcome to my page, nice to see you 👋
 ## About myself:
 I'm a Jumior Manual QA Engineer. I have always been interested in the software development process. I like to check
 softwareproducts foroperability, as well as improve theirquality.
