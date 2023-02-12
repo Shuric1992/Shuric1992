@@ -14,8 +14,12 @@ This is creative work toimprove theuser experienceoftheproduct. :wink:
 * [Test Cases and Test Runs](https://github.com/Shuric1992/Test-Cases.git)
 
 ### :hammer_and_wrench: Tools :
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-![postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=Postman&logoColor=orange)]
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=Postman&logoColor=orange)
+![fiddler](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
+![jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=Jira&logoColor=blue)
+![trello](https://img.shields.io/badge/Trello-090909?style=for-the-badge&logo=Trello&logoColor=blue)
+![jmeter](https://img.shields.io/badge/Jmeter-090909?style=for-the-badge&logo=Jmeter&logoColor=blue)
 
 <!--
 **Shuric1992/Shuric1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
