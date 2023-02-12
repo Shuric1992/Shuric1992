@@ -1,7 +1,7 @@
 ![HEADER](https://github.com/Shuric1992/Shuric1992/blob/main/qa-2-minxd.png)
 
 # Welcome to my page, nice to see you 👋
-## About myself:
+## About myself
 I'm a Junior Manual QA Engineer. I have always been interested in the software development process. I like to check
 software products foroperability, as well as improve their quality.
 This is creative work to improve the user experience of the product. :wink:
