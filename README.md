@@ -7,7 +7,7 @@ software products foroperability, as well as improve their quality.
 This is creative work to improve the user experience of the product. :wink:
 
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1KMKn3UkN_5t5vIX_6gdQlQbYVSwmfFja/view?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/1RSQNQ4DKlTuEMewE1-aHI0U5bg97fpFr/view?usp=sharing)
 
 ## My Portfolio
 * [Postman Collections](https://github.com/Shuric1992/Postman-Collections.git)
